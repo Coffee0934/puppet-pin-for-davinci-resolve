@@ -12,3 +12,4 @@ DaVinci Resolve의 Fusion 및 Edit 페이지에서 사용하는 퍼펫 핀 OpenF
 원작은 [lavanderhairo-ops/PuppetPin](https://github.com/lavanderhairo-ops/PuppetPin) 고 MIT 라이선스 입니다!  
 
 원래 윈도우 전용이던 플러그인을 맥에서도 사용할 수 있게 했습니다 
+
